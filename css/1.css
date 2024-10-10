@@ -2,3 +2,6 @@ body{
     background-color: pink;
     font-style: italic;
 }
+.bold{
+    font-weight: bold;
+}
